@@ -58,8 +58,8 @@ Ask me about:<br>Best practices in full-stack development and AI model integrati
 ### 🔥 &nbsp; My Stats :
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JEELGANDHI21&theme=nightowl&type=png&hide_current_streak=true)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JEELGANDHI21&theme=nightowl&hide_border=true&type=png&hide_current_streak=true" alt="GitHub Streak" /></a><BR/><BR/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEELGANDHI21&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 
 ---
@@ -68,9 +68,6 @@ Ask me about:<br>Best practices in full-stack development and AI model integrati
 
 
 --- -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JEELGANDHI21&theme=nightowl&hide_current_streak=true)](https://git.io/streak-stats)
-
 
 
 ### 🌐 &nbsp; Socials:
