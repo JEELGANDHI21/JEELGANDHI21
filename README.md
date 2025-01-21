@@ -58,10 +58,9 @@ Ask me about:<br>Best practices in full-stack development and AI model integrati
 ### 🔥 &nbsp; My Stats :
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JEELGANDHI21&theme=nightowl&type=png&hide_current_streak=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khushidesai23&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JEELGANDHI21&theme=nightowl&hide_border=true&type=png&hide_current_streak=true)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEELGANDHI21&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
