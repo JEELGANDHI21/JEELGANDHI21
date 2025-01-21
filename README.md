@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 
 <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWd6bzRsYTB1ZGc4YThtZGp4bnF5NDB1Z2E4bnJwdXl3NDE4YnUwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"  /></p>
@@ -57,18 +57,15 @@ Ask me about:<br>Best practices in full-stack development and AI model integrati
 
 ### 🔥 &nbsp; My Stats :
 
- <!--<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushidesai23&custom_title=khushidesai23's%20GitHub%20Activity%20Graph&bg_color=000000&color=4084B4&line=21724B&point=4084B4&area_color=3EEEC8&title_color=4084B4&area=true" alt="Github Activity Graph" width="100%"/>
-</div> -->
+=
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JEELGANDHI21&theme=nightowl&hide_current_streak=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEELGANDHI21&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JEELGANDHI21&theme=nightowl&hide_border=true&type=png&hide_current_streak=true" alt="GitHub Streak" /></a>
 
 ---
 
-<!--### 🏆 &nbsp; GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khushidesai23&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 --- -->
 
