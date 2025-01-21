@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWd6bzRsYTB1ZGc4YThtZGp4bnF5NDB1Z2E4bnJwdXl3NDE4YnUwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"  /></p>
 
 ## 👨‍💻: &nbsp;About Me :
-🔭I’m currently working on building a scalable web app with integrated AI features.👯<br/><br/>
-I’m looking to collaborate on:<br>Full-stack projects with modern frameworks and AI/ML integrations.<br><br>🤝
+🔭I’m currently working on building a scalable web app with integrated AI features.<br/><br/>
+👯I’m looking to collaborate on:<br>Full-stack projects with modern frameworks and AI/ML integrations.<br><br>🤝
 I’m looking for help with:<br>Optimizing web app performance and improving machine learning models.<br><br>🌱 
 I’m currently learning:<br>LLMs model, Langchain Frameworks and Cloud Basics<br><br>💬 
 Ask me about:<br>Best practices in full-stack development and AI model integration.<br>
