@@ -60,7 +60,7 @@ Ask me about:<br>Best practices in full-stack development and AI model integrati
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JEELGANDHI21&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeelgandhi21&theme=nightowl)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEELGANDHI21&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 
