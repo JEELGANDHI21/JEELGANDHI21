@@ -29,15 +29,6 @@
 
 <p align="center">
 
-<!-- Profile Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats.vercel.app/api?username=jeelgandhi21&show_icons=true&theme=github_dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats.vercel.app/api?username=jeelgandhi21&show_icons=true&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeelgandhi21&show_icons=true&hide_border=true">
-</picture>
-
 <!-- Streak Stats -->
 <picture>
   <source media="(prefers-color-scheme: dark)" 
