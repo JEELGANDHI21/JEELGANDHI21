@@ -23,21 +23,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,html,react,nodejs,express,spring,hibernate,tailwind,docker,aws,postgres,mysql,mongodb,git,github,tensorflow,pytorch" />
 </p>
 
----
-
-
-<p align="center">
-
-<!-- Top Languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeelgandhi21&layout=compact&theme=github_dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeelgandhi21&layout=compact&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeelgandhi21&layout=compact&hide_border=true">
-</picture>
-
-</p>
 
 ---
 
