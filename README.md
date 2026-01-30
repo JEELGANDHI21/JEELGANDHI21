@@ -25,20 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<!-- Streak Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-streak-stats.herokuapp.com/?user=jeelgandhi21&theme=github_dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-streak-stats.herokuapp.com/?user=jeelgandhi21&theme=default&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeelgandhi21&hide_border=true">
-</picture>
-
-</p>
 
 <p align="center">
 
